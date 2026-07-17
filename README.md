@@ -43,14 +43,7 @@ Spam-Guard-AI/
 ├── README.md
 │
 ├── templates/
-│   └── index.html
-│
-├── static/
-│   ├── style.css
-│   ├── script.js
-│   └── images/
-│
-└── screenshots/
+   └── index.html
 ```
 
 ---
